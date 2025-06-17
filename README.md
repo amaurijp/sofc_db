@@ -24,7 +24,7 @@ Information about the scientific articles used is present in the database (artic
 
 -------------------------------------------------------------------------------
 
-The databases were generated using the NLP pipelines
+The database was generated using the NLP pipelines
 developed by André de Araújo Caetano ([Github](https://github.com/andre-aracaetano/LLM-Solid-Oxide-Fuel-Cell))
 during his undergraduate project under supervision of Prof. Amauri Jardim de Paula
 at Ilum School of Science / Brazilian Center for Research in Energy and Materials (CNPEM), Campinas-SP, Brazil.
