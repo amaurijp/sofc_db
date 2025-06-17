@@ -18,11 +18,11 @@ The features (columns in file `sofc_db_1.csv`) extracted are:
 9. electrolyte elements composition string (p_electrolyte) / Physical Unit = None (categorical terms has no PU);
 10. LLM prompt response (extraction) / Physical Unit = None (categorical terms has no PU);
 11. SOFC operation temperature (tp) / Physical Unit = degrees Celcius;
-12. XXXX (pw) / Physical Unit = mW cm<sup>-2</sup>
+12. Power density (pw) / Physical Unit = mW cm<sup>-2</sup>
 
 Information about the scientific articles used is present in the database (article title, DOI, abstract).
 
 -------------------------------------------------------------------------------
 
 The databases were generated using the NLP pipelines
-described elsewhere (link Github André XXXXX). 
+described elsewhere ([Github](https://github.com/andre-aracaetano/LLM-Solid-Oxide-Fuel-Cell)). 
