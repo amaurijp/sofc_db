@@ -20,6 +20,8 @@ The features (columns in file `sofc_db_1.csv`) extracted are:
 11. SOFC operation temperature (tp) / Physical Unit = degrees Celcius;
 12. XXXX (pw) / Physical Unit = mW cm<sup>-2</sup>
 
+Information about the scientific articles used is present in the database (article title, DOI, abstract).
+
 -------------------------------------------------------------------------------
 
 The databases were generated using the NLP pipelines
